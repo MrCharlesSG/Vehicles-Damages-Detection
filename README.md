@@ -1,6 +1,6 @@
-#### Vehicles Damages Detection
+# Vehicles Damages Detection
 
-For more details see the memmory in pdf https://github.com/MrCharlesSG/Vehicles-Damages-Detection/blob/main/Project.pdf
+For more details see the [pdf report](https://github.com/MrCharlesSG/Vehicles-Damages-Detection/blob/main/Project.pdf).
 
 The project was part of the subject of Computer Vision in the Software Engineering master's program at Algebra University College (Zagreb). The aim of the project was to explore different architectures and understandings in the field of Computer Vision, specifically focusing on a semantic segmentation problem to detect damages in vehicles. The project involved several key components:
 
